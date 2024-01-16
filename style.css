@@ -1,5 +1,5 @@
 
-@media (min-width:912px){
+@media (min-width:992px){
     .nav-heading{
         color: #131318;
         font-family: Mulish;
@@ -248,10 +248,6 @@
         top: 1910px;
         left: 950px;
     }
-
-
-
-
     /* banner-3-end */
     .banner-4{
         display: flex;
@@ -410,6 +406,11 @@
         line-height: 26px;
         margin-left: 20px;
     }
+    
+    .banner-10-contrainer{
+        margin-left: 18%;
+    }
+
     .footer{
         display: flex;
         gap: 3%;
@@ -598,39 +599,44 @@
 
     .image-1{
         display: grid;
-        margin-left: 20%;
+        margin-left: 10%;
         max-width: 100%;
         max-height: 80%;
         margin-bottom: 0;
+        margin-bottom: 2%;
     }
     .image-2{
         position: relative;
         display: grid;
-        margin-left: 18%;
+        margin-left: 10%;
         max-width: 100%;
         max-height: 80%;
         padding-top: 0;
+        margin-bottom: 2%;
     }
     .image-3{
         position: relative;
         display: grid;
-        margin-left: 20%;
+        margin-left: 30%;
         max-width: 100%;
         max-height: 100%;
+        margin-bottom: 2%;
     }
     .image-4{
         position: relative;
         display: grid;
-        margin-left: 40%;
+        margin-left: 20%;
         max-width: 100%;
         max-height: 100%;
+        margin-bottom: 2%;
     }
     .image-5{
         position: relative;
         display: grid;
-        margin-left: 20%;
+        margin-left: 13%;
         max-width: 100%;
         max-height: 100%;
+        margin-bottom: 2%;
     }
     .image-6{
         position: relative;
@@ -638,23 +644,62 @@
         margin-left: 20%;
         max-width: 100%;
         max-height: 100%;
+        margin-bottom: 2%;
     }
     .image-7{
         position: relative;
         display: grid;
-        margin-left: 20%;
+        margin-left: 11%;
         max-width: 100%;
         max-height: 100%;
+        margin-bottom: 2%;
     }
-    .image-11{
+    .image-1-para{
         position: absolute;
-        top: 250%;
+        top: 235%;
         left: 50%;
+        font-size: 34px;
     }
-    .image-21{
+    .image-2-para{
         position: absolute;
-        top: 330%;
+        top: 285%;
         left: 50%;
+        font-size: 34px;
+    }
+    .image-3-para{
+        position: absolute;
+        top: 335%;
+        left: 50%;
+        font-size: 34px;
+        
+    }
+    .image-4-para{
+        position: absolute;
+        top: 385%;
+        left: 50%;
+        font-size: 34px;
+        
+    }
+    .image-5-para{
+        position: absolute;
+        top: 455%;
+        left: 50%;
+        font-size: 34px;
+        
+    }
+    .image-6-para{
+        position: absolute;
+        top: 535%;
+        left: 50%;
+        font-size: 34px; 
+    }
+    .image-7-para{
+        position: absolute;
+        top: 575%;
+        left: 50%;
+        font-size: 34px;
+        color: #FF5400;
+        
     }
     .banner-4{
         display: block;
@@ -703,13 +748,6 @@
     .banner-4-sub-description{
         margin-left: 30px;
     }
-
-
-
-
-
-      
-
 .banner-8-title1{
     color: #131318;
     text-align: center;
