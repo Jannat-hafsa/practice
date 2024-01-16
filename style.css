@@ -48,7 +48,7 @@
         justify-content: space-around;
         align-items: center;
     }
-    .banner-1-header{
+ .banner-1-header{
         color: #FFF;
         font-family: Mulish;
         font-size: 64px;
@@ -185,6 +185,73 @@
         margin-left: 240px;
         margin-top: 24px;
     }
+    .banner-3-image-para{
+        display: flex;
+    }
+    .image-1{
+        position: relative;
+    }
+    .image-2{
+        position: relative;
+    }
+    .image-1-para{
+        font-size: 42px ;
+        position: absolute;
+        top: 1295px;
+        left: 450px;
+    }
+    .image-2-para{
+        font-size: 42px ;
+        position: absolute;
+        top: 1299px;
+        left: 1030px;
+    }
+    .banner-3-image-para-2{
+        display: flex;
+    }
+    .image-3{
+        position: relative;
+    }
+    .image-4{
+        position: relative;
+    }
+    .image-1{
+        position: relative;
+    }
+    .image-3-para{
+        font-size: 42px ;
+        position: absolute;
+        top: 1610px;
+        left: 350px;
+    }
+    .image-4-para{
+        font-size: 42px ;
+        position: absolute;
+        top: 1610px;
+        left: 750px;
+    }
+    .image-5-para{
+        font-size: 42px ;
+        position: absolute;
+        top: 1610px;
+        left: 1195px;
+    }
+    .image-6-para{
+        font-size: 42px ;
+        position: absolute;
+        top: 1910px;
+        left: 450px;
+    }
+    .image-7-para{
+        font-size: 42px ;
+        position: absolute;
+        top: 1910px;
+        left: 950px;
+    }
+
+
+
+
     /* banner-3-end */
     .banner-4{
         display: flex;
@@ -312,8 +379,8 @@
         background: #FF5400;
         position: absolute;
         left: 1040px;
-        top: 3620px;
-        transform: rotate(-19.628deg);
+        top: 3570px;
+        transform: rotate(-25.628deg);
     }
     .banner-9-image-title{
         color: #FFF;
@@ -636,6 +703,13 @@
     .banner-4-sub-description{
         margin-left: 30px;
     }
+
+
+
+
+
+      
+
 .banner-8-title1{
     color: #131318;
     text-align: center;
@@ -720,6 +794,7 @@
         transform: rotate(-19.628deg);
         flex-shrink: 0;
         position: absolute;
+        
         
     }
     .banner-9-image-title{
